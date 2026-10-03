@@ -1,0 +1,28 @@
+{
+  "name": "ultra-studio-theme",
+  "displayName": "Ultra Studio Theme",
+  "description": "The only and great theme for Ultra Studio",
+  "version": "0.1.0",
+  "publisher": "ultrasonic-technologies",
+  "icon": "./ultra-studio-theme.png",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultra Studio Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ultra Studio Dark-color-theme.json"
+      },
+      {
+        "label": "Ultra Studio Light",
+        "uiTheme": "vs",
+        "path": "./themes/Ultra Studio Light-color-theme.json"
+      }
+    ]
+  }
+}
