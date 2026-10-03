@@ -5,6 +5,10 @@
   "version": "0.1.0",
   "publisher": "ultrasonic-technologies",
   "icon": "./ultra-studio-theme.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryan-de-freitas-bordez/ultra-studio-theme.git"
+  },
   "engines": {
     "vscode": "^1.140.0"
   },
