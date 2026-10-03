@@ -1,6 +1,6 @@
 # Ultra Studio 
 
-![Screenshot](./screenshot.jpeg)
+![Screenshot](https://github.com/ryan-de-freitas-bordez/ultra-studio-theme/blob/master/screenshot.jpeg?raw=true)
 
 The Theme for the IDE Ultra Studio. There are 2 versions:
 - Dark
